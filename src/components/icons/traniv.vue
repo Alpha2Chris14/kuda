@@ -10,8 +10,8 @@ export default {
 
 <style scoped>
 .hello{
-    width: 353px !important;
-    height: 314px !important;
+    width: 100% !important;
+    height:  auto !important;
     margin: 50px auto 0px;
 }
 </style>

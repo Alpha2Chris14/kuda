@@ -23,14 +23,15 @@ export default {
         background: #fbfbfb;
         margin-top: 120px;
         padding: 65px 0px 40px;
+        width: 100%;
     }
 
     .partners_con{
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-        margin-left: 20vw;
-        margin-right: 20vw;
+        /* margin-left: 20%;
+        margin-right: 20%; */
         margin-top: 40px;
     }
 
@@ -38,6 +39,7 @@ export default {
         justify-self: center;
         padding: 30px 20px 0px;
         min-width:121.89px;
+        width: 33.33%;
     }
     .bill{
         grid-column: 1/-1;

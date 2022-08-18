@@ -37,7 +37,7 @@ export default {
         border-radius: 5px;
         position: relative;
         overflow: hidden;
-        margin: 20px 110px 0px;
+        margin: 20px 5% 0px;
         display: flex;
         flex-direction: column;
         align-content: space-around;

@@ -1,6 +1,6 @@
 <template>
-    <div>
-            <div class="banner">
+    <div class="top_banner">
+        <div class="banner">
         <div class="item">
             <div class="caption">
             We’re the bank of the free
@@ -56,14 +56,14 @@ export default {
     .banner{
         display: grid;
         text-align: center;
-        justify-content: space-around;
-        margin: 70px 68px 0px;
+        margin-top: 70px;
         padding: 50px 20px 63px;
     }
 
     .item{
-        margin: 10px 70px 0px;
+        width: 100%;
         display: grid;
+        width: 100%;
     }
     .caption{
         font-size: 2rem;
@@ -75,7 +75,7 @@ export default {
 
     .desc{
         color:#000000;
-        font-size: 1.1rem;
+        font-size: 98%;
         margin:0px 0px 20px;
         line-height: 1.5;
         word-spacing: 1px;

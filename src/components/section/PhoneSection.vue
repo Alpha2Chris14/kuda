@@ -57,6 +57,7 @@ export default {
         display:grid;
         text-align:center;
         margin-top:70px;
+        width: 100%;
 }
 .phone_section .head{
     color:#40196D;
@@ -69,8 +70,8 @@ export default {
     font-size: 0.97rem;
     line-height: 1.5;
     font-weight: 400;
-    margin-left: 15%;
-    margin-right: 15%;
+    /* margin-left: 15%;
+    margin-right: 15%; */
     color: #6c6c6c;
 }
 

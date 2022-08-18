@@ -48,7 +48,14 @@ export default {
         margin-top: 150px;
     }
     .head{
-        margin-left: 9%;
-        margin-right: 9%;
+        /* margin-left: 9%;
+        margin-right: 9%; */
     }
+
+    .desc{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+
 </style>

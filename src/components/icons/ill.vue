@@ -10,8 +10,8 @@ export default {
 
 <style scoped>
 .vas{
-    width:420px !important;
-    height: 328px !important;
+    width:90% !important;
+    height: auto !important;
     margin-top: 15px;
     margin-left: auto;
     margin-right: auto;

@@ -10,8 +10,8 @@ export default {
 
 <style scoped>
 .coin{
-    width: 420px !important;
-    height:395px !important;
+    width: 90% !important;
+    height:auto !important;
     margin: 50px auto 0px;
 }
 </style>

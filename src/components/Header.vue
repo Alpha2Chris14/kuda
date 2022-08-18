@@ -98,7 +98,7 @@ export default {
 
 <style scoped>
     header{
-        width: 100vw;
+        width: 100%;
         background:white;
         height: 70px;
         box-shadow: 0 4px 13px rgb(0 0 0 / 5%);
@@ -217,15 +217,15 @@ export default {
             z-index: 10;
             position: absolute;
             height: 100vh;
-            top:64px;
+            top:3.9rem;
             display: grid;
             grid-template-columns: 1fr 4fr;
-            grid-template-rows: 40px 300px auto;
-            grid-auto-rows: 100px;
-            gap:10px;
-            margin-left: 100px;
+            grid-template-rows: 2.5rem 18.75rem auto;
+            grid-auto-rows: 6.25rem;
+            gap:0.625rem;
+            padding-left: 6.25rem;
             animation: appear .3s;
-            padding-top: 20px;
+            padding-top: 1.25rem;
         }
 
         .mobile_view button{

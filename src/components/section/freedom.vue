@@ -176,13 +176,13 @@ export default {
         display: grid;
         text-align: center;
         justify-content: space-around;
-        margin: 20px 68px 0px;
+        margin: 20px 0px;
         padding: 50px 20px 63px;
     }
 
     .shrink{
-        margin-left: 5vw;
-        margin-right: 5vw;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     .free_bank{

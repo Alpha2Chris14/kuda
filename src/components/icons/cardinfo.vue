@@ -38,7 +38,7 @@
     gap:20px;
     background-color: white;
     height: 80px;
-    width: 70vw;
+    width: 100%;
     align-content: center;
     text-align:left;
     padding-left:20px;

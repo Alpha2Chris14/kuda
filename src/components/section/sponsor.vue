@@ -21,16 +21,19 @@ export default {
         grid-template-columns: repeat(3,1fr);
         grid-auto-rows:100px;
         padding: 24px 20px 0px;
-        gap: 30px;
+        gap: 3%;
+        width:100%;
     }
 
     .sponsor_group a{
         align-self: center;
+        display: inline-block;
+
     }
 
     .sponsor_group img{
         filter: grayscale(100%);
         height: auto;
-        width:117px;
+        width:  70% !important;
     }
 </style>

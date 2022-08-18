@@ -10,8 +10,8 @@ export default {
 
 <style scoped>
 .spend{
-    width: 420px !important;
-    height: 415px !important;
+    width: 100% !important;
+    height: auto !important;
     margin: 50px auto 0px;
 }
 </style>
